@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Indie Apex]]></title>
+        <description><![CDATA[Indie Apex]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 29 Feb 2016 00:54:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Start Up Conversations With The Best Song]]></title>
+            <description><![CDATA[<article><h1>Start Up Conversations With The Best Song</h1><p>Over 4 million tracks from Spotify’s 20 million song catalog have never been listened to, not even once. Even with the latest music services, platforms, and apps consumers still struggle to uncover and break away from their limited scope of music entangled in the amplifying music universe. Adrien Moret and co-founder Shayne Gredoire recognized the lack of music exploring engines and thus founded The Best Song. What started as a website to vote for your favorite tracks has now evolved into a drop-dead-simple music discovery app. The Best Song turns the overwhelming world of music into a recognizable platform swiping left or right to skip or keep the songs and has been coined the “tinder of music.”</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/beb9e1964d52d0b53f354ebfd1b6ce11db497b15.jpg"></article>]]></description>
+            <link>undefinedstart-up-conversations-with-the-best-song/index.html</link>
+            <guid isPermaLink="false">28deaa98-ab8a-4647-b2fe-1e9b9e5bda02</guid>
+            <pubDate>Mon, 29 Feb 2016 00:53:33 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
