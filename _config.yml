@@ -1,0 +1,28 @@
+name: Indie Apex
+favicon: null
+layout_spectrum: 0.9534111761022359
+typography_spectrum: 0.6958575721364468
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.4699769178405404
+  lightness: 0.9686801512725651
+  saturation: 0.7056687332224101
+  rhythmicContrast: 0.7579660997726023
+purpose: []
